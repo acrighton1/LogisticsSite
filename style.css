@@ -151,7 +151,7 @@
         justify-content:center;
         align-items: center;
         text-align:center;        
-        background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/truckhighway.jpg') no-repeat center center fixed; 
+        background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/truckhighway.jpg') no-repeat center center; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -280,7 +280,7 @@ and (max-height : 640px){
     padding: 60px 0; 
     text-align: left;    
      color: rgba(0, 0, 0, 0.8); 
-     background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/highway.jpg') no-repeat center center fixed; 
+     background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/highway.jpg') no-repeat center center; 
      background-size: cover;
      max-width: 100%;
      max-height: 100vh;
@@ -645,7 +645,7 @@ h2{
 
 
   .contactus {  
-    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/truckssitting.jpg') no-repeat center center fixed; 
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/truckssitting.jpg') no-repeat center center; 
     background-size: cover;
     max-width: 100%;
     max-height: 100vh;  
